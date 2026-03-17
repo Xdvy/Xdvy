@@ -10,6 +10,12 @@ Python backend & data developer focused on building robust APIs and automated da
 - Automate scientific and data workflows (Python, Bash)
 - Develop reusable and maintainable tools for data processing and simulation
 
+## 📊 Highlights
+
+- Developed generic Python tools used across multiple projects  
+- Experience with large-scale simulations on HPC clusters  
+- Focus on clean, maintainable and scalable code  
+
 ## 🧩 Featured projects
 
 ### 🔹 Video Games Data API
